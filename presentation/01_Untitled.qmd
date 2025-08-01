@@ -1,0 +1,11 @@
+---
+title: |
+   | Untitled
+date: last-modified
+date-format: long
+author: Andrew Benito
+format: 
+  beamer: 
+    navigation: horizontal
+---
+
